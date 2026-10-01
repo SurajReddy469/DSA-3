@@ -3,3 +3,21 @@ __pycache__/
 .env
 *.pyc
 
+#Git is an verison control software used to track chanegs in files and maintain the history of a project...
+#Github  is online platform for hosting git respository and collorating on software project's
+#Git --> Version-control software runs on computer Github --> Online platform that hosts Git repositories and provides collabpration features
+#git software start tracking the local respository
+#To show the Current stage of your repository including all the modified files, Untracked files, staged files, currect branch, chnages ready to commit
+#Add the file in the staging area for next commit area
+
+#A commit is a saved snapshot of staged changes in the git repository 
+
+#git log --oneline Shows the project's commit history in a compact format.
+#.gitignore specifies files and directories that Git should ignore and not normally track.
+
+#git add = prepare changes
+#git commit = saved the prepared changed
+
+#Staging area is an intermediate area where you select the changes that you want to include in your next commit.
+
+
